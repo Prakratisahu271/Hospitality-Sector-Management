@@ -1,2 +1,2 @@
 # Hospitality-Sector-Management
-abcd
+Summer Projects 2025
